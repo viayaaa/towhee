@@ -1,0 +1,6 @@
+trainer
+=======
+
+.. toctree::
+
+   trainer.md

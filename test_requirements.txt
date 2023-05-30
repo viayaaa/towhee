@@ -1,0 +1,22 @@
+torch>=1.8.0
+torchvision>=0.9.0
+numpy>=1.19.5
+requests>=2.12.5
+tqdm>=4.59.0
+torchmetrics==0.7.0
+importlib_metadata
+tabulate
+pytest
+fairscale
+python-multipart
+transformers>=4.19.2
+einops>=0.4.1
+timm>=0.4.12
+PyWavelets
+twine
+dill
+onnx
+scipy
+contextvars; python_version <= '3.6'
+tenacity
+pydantic

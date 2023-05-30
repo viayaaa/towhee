@@ -1,0 +1,24 @@
+filters:
+  ".*":
+    reviewers:
+      - GuoRentong
+      - Chiiizzzy
+      - junjiejiangjjj
+      - fzliu
+      - filip-halt
+      - wxywb
+      - shiyu22
+      - jaelgu
+      - zc277584121
+
+    approvers:
+      - GuoRentong
+      - junjiejiangjjj
+      - fzliu
+
+  "tests":
+    reviewers:
+      - binbinlv
+
+    approvers:
+      - binbinlv
